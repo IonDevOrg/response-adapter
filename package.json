@@ -1,0 +1,11 @@
+{
+  "name": "response-adapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IonDevOrg/response-adapter.git",
+  "author": "Daniel Farias <daniel.dsfarias@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "querystring": "^0.2.1"
+  }
+}
